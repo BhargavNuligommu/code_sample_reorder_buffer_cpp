@@ -3,8 +3,8 @@
 #include "cpu_register.h"
 #include <deque>
 
-#ifndef REORDER_BUFFER_H
-#define REORDER_BUFFER_H
+#ifndef REORDERBUFFER_H
+#define REORDERBUFFER_H
 
 
 class ReorderBuffer{
